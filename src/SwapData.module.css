@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .box {
+    border: 1px solid #ccc;
+    padding: 20px;
+  }
+  
+  .centered {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
